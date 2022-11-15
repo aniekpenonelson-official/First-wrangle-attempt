@@ -18,6 +18,7 @@ This dataset was obtained from Udacity classroom projects. This archive contains
 
 
 HOW TO INSTALL AND RUN PROJECTS
+
 The entirety of this project can be completed in this repository. 
 If you want to work on a local machine however, 
 the following software requirements apply:
